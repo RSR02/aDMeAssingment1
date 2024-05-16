@@ -1,6 +1,6 @@
 # User Card Grid
 
-This project is a simple web application that displays user cards in a responsive grid layout. The users are fetched from the [Reqres](https://reqres.in) API.
+This project is a simple web application that displays user cards in a responsive grid layout. 
 
 ## Features
 
